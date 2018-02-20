@@ -2,7 +2,7 @@
     "room":                     "Radiant Music",
     "author":                   "Origin",
     "icon":                     null,
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://raw.githubusercontent.com/kiziq/digobora/master/digo.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
