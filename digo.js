@@ -1,5 +1,5 @@
 {
-    "room":                     "Radiant Music",
+    "room":                     "Laboratório do kiziq",
     "author":                   "Origin",
     "icon":                     null,
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
