@@ -1,6 +1,7 @@
 <?php 
 header('Access-Control-Allow-Origin: https://plug.dj'); 
 header('Content-Type: text/json'); 
+?>
 
 
 {
@@ -177,4 +178,3 @@ header('Content-Type: text/json');
         "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
-?>
