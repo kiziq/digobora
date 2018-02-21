@@ -1,7 +1,7 @@
 /*.room-background {
     background: url(http://i.imgur.com/OQqTdXX.jpg) no-repeat !important;
-    width: 500% !important;
-    height: 500% !important;
+    width: 400% !important;
+    height: 400% !important;
 }*/
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
