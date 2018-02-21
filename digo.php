@@ -1,3 +1,8 @@
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+
+
 {
     "room":                     "Laboratório do kiziq",
     "author":                   "Origin",
@@ -172,3 +177,4 @@
         "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
+?>
