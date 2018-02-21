@@ -1,8 +1,9 @@
+//https://kiziq.github.io/digobora/digo.css
 {
     "room":                     "Laboratório do kiziq",
     "author":                   "Origin",
     "icon":                     null,
-    "css":                      "https://kiziq.github.io/digobora/digo.css",
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
