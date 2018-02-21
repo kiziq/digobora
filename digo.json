@@ -2,7 +2,7 @@
     "room":                     "Laboratório do kiziq",
     "author":                   "Origin",
     "icon":                     null,
-    "css":                      "https://github.com/kiziq/digobora/raw/master/digo.css",
+    "css":                      "https://kiziq.github.io/digobora/digo.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
