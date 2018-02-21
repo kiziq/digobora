@@ -151,14 +151,14 @@ border-radius: 8px;
 #vote .crowd-response {
 background: #222224;
 }
-#woot .bottom, #woot.selected {
-background: #90ad2f;
+#woot .bottom,#woot.selected {
+    background: rgba(37, 185, 97, 0) !important;
 }
-#grab .bottom, #grab.selected {
-background: #aa74ff;
+#grab .bottom, #grab.selected {    
+    background: rgba(37, 185, 97, 0) !important;
 }
-#meh .bottom, #meh.selected {
-background: #c42e3b;
+#meh .bottom,#meh.selected {
+    background: rgba(37, 185, 97, 0) !important;
 }
 .row:hover {
     background: linear-gradient(to right,rgba(255, 118, 118, 0) 0,rgba(41, 48, 124, 0.27) 100%) !important;
