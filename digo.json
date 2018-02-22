@@ -169,6 +169,30 @@
         "!statscounters": 100
     },
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png",
+        "ze:-D":       "http://i.imgur.com/SdjP5Ct.png",
+        "ze:-)":       "http://i.imgur.com/uiYWDcH.png",
+        "ze:-(":       "http://i.imgur.com/1suEzYQ.png",
+        "ze:-o":       "http://i.imgur.com/1suEzYQ.png",
+        "zechocado":   "http://i.imgur.com/GRAowip.png",
+        "ze:-?":       "http://i.imgur.com/vcsZR5U.png",
+        "ze8-)":       "http://i.imgur.com/svotT5r.png",
+        "zelol":       "http://i.imgur.com/LJkqaGm.gif",
+        "ze:-x":       "http://i.imgur.com/tmQfH5V.png",
+        "ze:-P":       "http://i.imgur.com/SYsUmS9.png",
+        "zeoops":      "http://i.imgur.com/oXmbIGc.gif",
+        "zechorar":     "http://i.imgur.com/QdmeRop.gif",
+        "zedemonio":    "http://i.imgur.com/nfRFsf2.png",
+        "zemalefico":   "http://i.imgur.com/8cGxEtm.png",
+        "zeroll":       "http://i.imgur.com/yP14hDq.gif",
+        "ze;-)":        "http://i.imgur.com/kM8UK2C.gif",
+        "ze!":          "http://i.imgur.com/fCGw1aJ.png",
+        "ze?":          "http://i.imgur.com/JqxEod6.png",
+        "ze:-|":        "http://i.imgur.com/OxxSpS0.png",
+        "zeironico":    "http://i.imgur.com/SwHFJr4.png",
+        "zeha":         "http://i.imgur.com/0hLJLUu.png",
+        "zelove":       "http://i.imgur.com/hTBR1Nh.png",
+        "zeincrivel":   "http://i.imgur.com/XhzxTVF.png",
+        "zechorar2":    "http://i.imgur.com/fmPyChS.png"
     }
 }
